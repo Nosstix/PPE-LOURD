@@ -22,20 +22,6 @@ db.name=nom_de_ta_base
 db.user=root
 db.password=ton_mot_de_passe
 
-table.user=utilisateur
-table.categorie=categorie
-table.marque=marque
-table.vehicule=vehicule
-table.vente=vente
-table.config=config
-
-col.user.id=id
-col.user.nom=nom
-col.user.prenom=prenom
-col.user.email=email
-col.user.mdp=mdp
-col.user.role=role
-col.user.discord=discord
 ```
 
 ⚠️ Si le fichier est absent ou qu'une clé manque, l'application plante au démarrage.
