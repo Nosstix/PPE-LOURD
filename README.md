@@ -19,8 +19,8 @@ Contenu minimal :
 db.host=localhost
 db.port=3306
 db.name=nom_de_ta_base
-db.user=root
-db.password=ton_mot_de_passe
+db.user=root  <-- changer en fonction du user
+db.password=ton_mot_de_passe  <-- changer en fonction du mdp et laissé vide si y'apas de mdp
 
 ```
 
